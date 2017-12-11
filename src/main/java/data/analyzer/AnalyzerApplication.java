@@ -8,5 +8,6 @@ public class AnalyzerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AnalyzerApplication.class, args);
+		System.out.println("Work");
 	}
 }
